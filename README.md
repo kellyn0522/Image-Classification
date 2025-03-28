@@ -47,15 +47,19 @@
         2.2. Fine-Tuning
         2.3. Optimization
         2.4. Training  
+        
     3. Visualization
         3.1. Training Accuracy & Loss Graph
         3.2. Confusion Matrix
         3.3. Classification Report  
+        
     4. Additional Data Recognition  
+    
     5. Report
         5.1. Evaluation and Interpretation
         5.2. Conclusions and Improvement Measures
         5.3. Scalability and Business Model  
+        
     6. Connected DB
         6.1. File Load
         6.2. Connected SQLite
@@ -63,7 +67,9 @@
         6.4. Insert Data
         6.5. Commit
         6.6. Check Table Info  
+        
     7. Using DB Brewser for SQLite  
+    
     8. Google Colab
     
 
