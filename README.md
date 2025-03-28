@@ -40,7 +40,8 @@
     1. Dataset
         1.1. Kaggle 'Fruits and Vegetables Image Recognition'
         1.2. ImageNet
-        1.3. Data Pre-processing  
+        1.3. Data Pre-processing
+    
     2. ResNet50 Model
         2.1. Model Info
         2.2. Fine-Tuning
