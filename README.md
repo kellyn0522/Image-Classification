@@ -21,7 +21,6 @@
      - Early Stopping을 사용하여 과적합을 방지
      - 학습 도중 가장 높은 Validation 성능을 기록한 모델만 best_model.pth로 저장하여 최적의 모델을 사용한 평가만을 진행
 
-
 <br>
 
 ## ⚒️ Usage Stack
